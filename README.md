@@ -110,7 +110,6 @@ Here we are connect adf with azure sql database
 
 
 
-
 After connection we need assign our table according to name
  
 
