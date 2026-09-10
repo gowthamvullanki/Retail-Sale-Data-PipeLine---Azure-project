@@ -13,13 +13,16 @@ CREATED RESORCE GROUP
 
 
 CREATED SERVER AND AZURE SQL DATABASE ATTACHED IT TO OUR RESORCE GROUP
+
  <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/d9f7d4d3-684b-41cc-88e7-60c37726eaca" />
 
 
 
 
 
+
 OPEN THE VULLANKIDB AND CLICK ON QUERY EDITOR
+
 <img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/eb3ab9e5-ba71-4453-81eb-b430f962924b" />
 
  
@@ -29,15 +32,18 @@ OPEN THE VULLANKIDB AND CLICK ON QUERY EDITOR
 
 
 CONNECT IT WITH YOUR USERNAME AND PASSWORD
+
 <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/4f1a1eda-98f3-489a-bcbd-b3cc10f07322" />
 
  
 
 CREATE TRASACTIONS, STORES AND PRODUCT TABLES
+
  <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/979e0949-24a2-4e52-aa53-0953fcaebb14" />
 
 
-CREATED STORAGE ACCOUNT:
+CREATED STORAGE ACCOUNT
+
  <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/6f4f1401-ed88-4e3f-a7b3-55b6e6cea88c" />
 
 
@@ -45,10 +51,12 @@ CREATED STORAGE ACCOUNT:
 
 
 OPEN IT AND CLICK ON THE CONTAINER INSIDE DATA STORAGE:
+
  <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/1a8a5f96-e5e2-420d-9982-74823e8e8abd" />
 
 
 CREATED NEW CONTAINER ‘VULLANKI’ AND OPEN IT
+
  <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/07de9b87-0d5a-4672-a766-de8d3f064a9d" />
 
 
@@ -60,6 +68,7 @@ CREATED NEW CONTAINER ‘VULLANKI’ AND OPEN IT
 
 
 Add directories bronze silver and gold
+
 <img width="940" height="450" alt="image" src="https://github.com/user-attachments/assets/63c66bf6-ccff-4b54-ba45-10468ca586ab" />
 
  
@@ -75,11 +84,13 @@ Create inside in bronze
 
 
 Create Azure data factory
+
 <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/18db34f7-3253-40b4-8428-0b4810436500" />
 
  
 
 Check ADF added in Resource group
+
  <img width="940" height="454" alt="image" src="https://github.com/user-attachments/assets/918b15d1-119b-46e1-b908-7d5bfb40cd30" />
 
 
@@ -91,11 +102,13 @@ Check ADF added in Resource group
 
 
 Open ADF and click on launch Studio
+
  <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/02954a85-7668-47fc-a863-36eb93118396" />
 
 
 
 Click on the new pipeline inside the ADF
+
  <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/0da457a8-8e78-436b-8f67-f5b095b010e2" />
 
 
@@ -202,8 +215,19 @@ We got data into our transaction in ADLS
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/11608ed3-cae1-4f91-96df-9b6835170225" />
 
 
-Power Bi 
-<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/5213274c-9566-45c5-96c6-e38fea63cadd" />
+We use databricks to get data from Azure using mount and process it
+<img width="1783" height="882" alt="ChatGPT Image Sep 10, 2026, 08_02_37 PM" src="https://github.com/user-attachments/assets/9aa5360a-a25e-4b15-9d03-5a8e3d6d24c0" />
+
+We inject data into silver and gold layers in azure storage using databricks
+<img width="1788" height="880" alt="ChatGPT Image Sep 10, 2026, 08_06_02 PM" src="https://github.com/user-attachments/assets/26f84a3b-3581-491c-a7d1-7eac3a582f08" />
+
+
+Power BI
+
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/ffa71d7d-9ec8-46ec-a01b-5d6d08818b77" />
+
+
+
 
 
 
