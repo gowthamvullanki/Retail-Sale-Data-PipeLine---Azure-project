@@ -1,3 +1,12 @@
+Retail Data Engineering Project — Description
+
+Built an end-to-end retail data engineering pipeline to integrate data from multiple sources, including Azure SQL Database and API-based JSON data. Used Azure Data Factory (ADF) to ingest and orchestrate data into Azure Data Lake Storage (ADLS). Implemented Databricks Medallion Architecture (Bronze, Silver, Gold) using PySpark for data cleaning, transformation, aggregation, and business-level data preparation. The processed Gold-layer data can then be consumed by Power BI for reporting and analytics.
+
+Technologies: Azure SQL DB | Azure Data Factory | ADLS Gen2 | Databricks | PySpark | Delta Lake | Power BI
+
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/33625264-db3c-47b6-859f-a1599bb2d06e" />
+
+
 Created Azure free Trail Account
 
  <img width="940" height="500" alt="image" src="https://github.com/user-attachments/assets/4560a642-ccd9-4f7d-85be-3f0ec0af4f87" />
